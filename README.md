@@ -1,5 +1,6 @@
-![Screenshot (45)](https://github.com/user-attachments/assets/c3cd58ed-4998-4e57-8f37-59cb1882839c)
-
+![Screenshot (47)](https://github.com/user-attachments/assets/cf8480eb-e70c-4039-b50b-fc4a4f7209b7)
+Click here to view my interactive dashboard on Tableau public. 
+https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/CostOverview2#1
 
 # Case Study: Enhancing Hospital Efficiency in Elective Hip Replacement Surgeries
 
@@ -101,4 +102,3 @@ Factors affecting LOS include:
 - Number of surgeons does not affect efficiency, indicating that hospital workflows and care processes need greater attention.
 - Targeted interventions can improve hospital efficiency, lower costs, and enhance patient outcomes.
 
-Click here to view my interactive dashboard on Tableau public. https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/CostOverview2#1
