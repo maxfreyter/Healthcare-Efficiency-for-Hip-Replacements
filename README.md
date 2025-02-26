@@ -46,7 +46,8 @@ Factors affecting LOS include:
 
 
 ### 2. Hospital Performance Comparison
-![Screenshot (28)](https://github.com/user-attachments/assets/d15fc8e3-8169-4c99-8f1e-d2e95e86ea15)
+![Screenshot (38)](https://github.com/user-attachments/assets/81879daa-11f6-4789-a3d9-cf38ea8e0349)
+
 - Syosset Hospital had the highest LOS (3.22 days) among the top 15 hospitals, despite having 11 surgeons.
 
 
@@ -62,15 +63,15 @@ Factors affecting LOS include:
 
 
 ### 5. Do More Surgeons Improve Efficiency?
-![image](https://github.com/user-attachments/assets/76e44884-62a4-42c1-b161-1d015916c392)
+![Screenshot (28)](https://github.com/user-attachments/assets/d15fc8e3-8169-4c99-8f1e-d2e95e86ea15)
 - There's no clear correlation between the number of surgeons and hospital efficiency. More surgeons do not necessarily lead to shorter LOS or lower costs.
 
 
 ### 6. Health Status: Major Factor in LOS & Costs
-![image](https://github.com/user-attachments/assets/10b84a8f-fd43-4ebc-90dd-e821422cdc8e)
+![Screenshot (33)](https://github.com/user-attachments/assets/17254461-4c7b-4805-a427-8c77b1fc9ea3)
 - Extreme severity cases have 12.5-day LOS and $59.5K costs—nearly 3× longer and 2× higher costs than major severity cases.
 
-![image](https://github.com/user-attachments/assets/76b55d90-d321-4715-a41f-e67d1827e47d)
+![Screenshot (44)](https://github.com/user-attachments/assets/99c911e8-415b-4ad7-be98-24241c583e3d)
 - Cancer patients (bone/connective tissue) experience the longest LOS (12 days) and highest costs ($81.4K).
 
 ## Actionable Recommendations
