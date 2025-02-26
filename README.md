@@ -19,7 +19,7 @@ Reducing LOS can:
 Factors affecting LOS include:
 - **Patient demographics:** Age, gender
 - **Health status:** Severity of illness, pre-existing conditions
-- **Hospital factors:** Number of surgeons, facility efficiency
+- **Hospital factors:** Hospital size, facility efficiency
 - **Procedure risks:** Complications, post-surgical recovery
 
 ## Dataset Overview
