@@ -1,3 +1,6 @@
+![Screenshot (45)](https://github.com/user-attachments/assets/c3cd58ed-4998-4e57-8f37-59cb1882839c)
+
+
 # Case Study: Enhancing Hospital Efficiency in Elective Hip Replacement Surgeries
 
 ## Executive Summary
@@ -96,3 +99,5 @@ Factors affecting LOS include:
 - Health status—not age—is the primary driver of extended hospital stays and high costs.
 - Number of surgeons does not affect efficiency, indicating that hospital workflows and care processes need greater attention.
 - Targeted interventions can improve hospital efficiency, lower costs, and enhance patient outcomes.
+
+Click here to view my interactive dashboard on Tableau public. https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/CostOverview2#1
