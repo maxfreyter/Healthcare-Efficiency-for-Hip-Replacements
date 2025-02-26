@@ -51,16 +51,13 @@ Factors affecting LOS include:
 
 
 ### 3. Identifying Outliers: LOS vs. Cost
-![image](https://github.com/user-attachments/assets/31ee1da3-47b2-4c75-a80c-8393cecc0418)
+![Screenshot (39)](https://github.com/user-attachments/assets/87e2e542-ff57-43e8-9dcf-d4ca718bca87)
 - Kings County Hospital has an outlier LOS of 12.07 days—nearly 5× the average.
-
-
-![image](https://github.com/user-attachments/assets/2ed9d7b3-d24a-4e17-a97f-563369fbd972)
 - NYU Lutheran Medical Center has an outlier cost of $84.6K per discharge—over 4× the average.
 
 
 ### 4. NYC Hospitals: High Costs & Low Volume
-![image](https://github.com/user-attachments/assets/1cf7f39c-59bb-47fd-a438-4e171c16bdd4)
+![Screenshot (43)](https://github.com/user-attachments/assets/8879acce-0c01-49b7-a10a-6c07543d5319)
 - Five hospitals in NYC have extremely high discharge costs but low patient volume, suggesting inefficiencies in resource utilization and potential overcharging.
 
 
