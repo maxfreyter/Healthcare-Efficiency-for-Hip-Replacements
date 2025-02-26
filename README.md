@@ -37,15 +37,16 @@ Factors affecting LOS include:
 ## Key Findings & Visual Insights
 
 ### 1. Age and Gender Breakdown
-![image](https://github.com/user-attachments/assets/bcb7d310-ffc4-4e43-a2d2-124b27caf431)
+![Screenshot (19)](https://github.com/user-attachments/assets/717d24da-721d-48de-b6a9-853f59c0f191)
 - Patients 50+ make up the majority of hip replacement cases.
 
-![image](https://github.com/user-attachments/assets/37bfcb34-65d1-4e40-b4cc-73e81e405dfc)
+
+![Screenshot (20)](https://github.com/user-attachments/assets/e5d291e9-ae22-4bd8-afad-90fa0cebb6e2)
 - Unexpectedly, LOS is nearly identical for patients under 50 and over 50. Age does not seem to significantly impact recovery time.
 
 
 ### 2. Hospital Performance Comparison
-![image](https://github.com/user-attachments/assets/fd30d0e9-4296-40da-9475-6d7d2d2b8ea3)
+![Screenshot (28)](https://github.com/user-attachments/assets/d15fc8e3-8169-4c99-8f1e-d2e95e86ea15)
 - Syosset Hospital had the highest LOS (3.22 days) among the top 15 hospitals, despite having 11 surgeons.
 
 
