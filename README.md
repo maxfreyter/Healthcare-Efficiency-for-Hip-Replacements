@@ -49,13 +49,13 @@ Factors affecting LOS include:
 ### 2. Hospital Performance Comparison
 ![Screenshot (38)](https://github.com/user-attachments/assets/81879daa-11f6-4789-a3d9-cf38ea8e0349)
 
-- Syosset Hospital had the highest LOS (3.22 days) among the top 15 hospitals, despite having 11 surgeons.
+- Syosset Hospital had the highest LOS (3.22 days) among the top 15 hospitals, despite having 11 surgeons. One would think more surgeons means shorter hospital stays. This will be investigated further.
 
 
 ### 3. Identifying Outliers: LOS vs. Cost
 ![Screenshot (39)](https://github.com/user-attachments/assets/87e2e542-ff57-43e8-9dcf-d4ca718bca87)
 - Kings County Hospital has an outlier LOS of 12.07 days—nearly 5× the average. While this seems quite high, a closer look using my interactive dashboard shows that one patient had a stay of 120 days, as well as a total cost of over $688k! This offers a valuable lesson on how a single outlier can skew average metrics and potentially misrepresent the overall performance of a facility.
-- NYU Lutheran Medical Center has an outlier cost of $84.6K per discharge—over 4× the average.
+- NYU Lutheran Medical Center has an outlier cost of $84.6K per discharge—over 4× the average. Interestingly, the average stay is just below the state average. I used my dashboard to investigate this further and what I found was interesting: 115 out of 124 total patients had osteoarthritis, with an average discharge cost of $86k. The state average for such patients is only 20k! It didn't seem to vary much between severity of illness either. Even minor cases averaged $85k. As we will discuss later, severity of illness is a strong contributer to high cost. NYU Lutheran's metrics aren't consistent with that trend.
 
 
 ### 4. NYC Hospitals: High Costs & Low Volume
