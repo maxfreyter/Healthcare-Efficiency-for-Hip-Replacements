@@ -54,7 +54,7 @@ Factors affecting LOS include:
 
 ### 3. Identifying Outliers: LOS vs. Cost
 ![Screenshot (39)](https://github.com/user-attachments/assets/87e2e542-ff57-43e8-9dcf-d4ca718bca87)
-- Kings County Hospital has an outlier LOS of 12.07 days—nearly 5× the average.
+- Kings County Hospital has an outlier LOS of 12.07 days—nearly 5× the average. While this seems quite high, a closer look using my interactive dashboard shows that one patient had a stay of 120 days, as well as a total cost of over $688k! This offers a valuable lesson on how a single outlier can skew average metrics and potentially misrepresent the overall performance of a facility.
 - NYU Lutheran Medical Center has an outlier cost of $84.6K per discharge—over 4× the average.
 
 
