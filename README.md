@@ -1,7 +1,7 @@
 # Case Study: Enhancing Hospital Efficiency in Elective Hip Replacement Surgeries
 
 ## Executive Summary
-This project, conducted for HealthStat, a fictitious healthcare consulting firm, explores hospital efficiency in elective hip replacement surgeries across New York State. Using an anonymized 2016 hospital discharge dataset,  analyzed in Tableau, the study uncovers insights into Length of Stay (LOS), discharge costs, and hospital performance.
+This project, conducted for HealthStat, a fictitious healthcare consulting firm, explores hospital efficiency in elective hip replacement surgeries across New York State. Using an anonymized 2016 hospital discharge dataset, analyzed in Tableau, the study uncovers insights into Length of Stay (LOS), discharge costs, and hospital performance.
 
 Key findings indicate that certain hospitals significantly exceed industry norms in LOS and costs, while health status and diagnosis play critical roles in recovery time. This report provides actionable recommendations for optimizing hospital efficiency and improving patient outcomes.
 
@@ -20,7 +20,7 @@ Factors affecting LOS include:
 - **Procedure risks:** Complications, post-surgical recovery
 
 ## Dataset Overview
-- **Source:** DataCamp’s anonymized 2016 New York State hospital discharge data
+- **Source:** DataCamp’s anonymized 2016 New York State hospital discharge data (https://app.datacamp.com/learn/courses/case-study-analyzing-healthcare-data-in-tableau)
 - **Scope:** Patients undergoing elective hip replacement surgery
 - **Size:** 30 columns, each row represents an individual inpatient stay
 - **Tool Used:** Tableau for data visualization and analysis
@@ -49,7 +49,6 @@ Factors affecting LOS include:
 ### 3. Identifying Outliers: LOS vs. Cost
 ![image](https://github.com/user-attachments/assets/31ee1da3-47b2-4c75-a80c-8393cecc0418)
 - Kings County Hospital has an outlier LOS of 12.07 days—nearly 5× the average.
-- 
 ![image](https://github.com/user-attachments/assets/2ed9d7b3-d24a-4e17-a97f-563369fbd972)
 - NYU Lutheran Medical Center has an outlier cost of $84.6K per discharge—over 4× the average.
 
