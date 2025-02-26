@@ -65,15 +65,15 @@ Factors affecting LOS include:
 
 ### 5. Do More Surgeons Improve Efficiency?
 ![Screenshot (28)](https://github.com/user-attachments/assets/d15fc8e3-8169-4c99-8f1e-d2e95e86ea15)
-- There's no clear correlation between the number of surgeons and hospital efficiency. More surgeons do not necessarily lead to shorter LOS or lower costs.
+- The trend line in the scatterplot is fairly close to being horizontal. This shows that there's no clear correlation between the number of surgeons and hospital efficiency. More surgeons do not necessarily lead to shorter LOS or lower costs. The efficiency of hospital workflows and care processes should be reviewed. 
 
 
 ### 6. Health Status: Major Factor in LOS & Costs
 ![Screenshot (33)](https://github.com/user-attachments/assets/17254461-4c7b-4805-a427-8c77b1fc9ea3)
-- Extreme severity cases have 12.5-day LOS and $59.5K costs—nearly 3× longer and 2× higher costs than major severity cases.
+- Extreme severity cases have 12.5-day LOS and $59.5K costs—nearly 3× longer and 2× higher costs than major severity cases. It's clear that severity of illness impacts length of stay and costs.
 
 ![Screenshot (44)](https://github.com/user-attachments/assets/99c911e8-415b-4ad7-be98-24241c583e3d)
-- Cancer patients (bone/connective tissue) experience the longest LOS (12 days) and highest costs ($81.4K).
+- Cancer patients (bone/connective tissue) experience the longest LOS (12 days) and highest costs ($81.4K). 
 
 ## Actionable Recommendations
 
@@ -97,8 +97,8 @@ Factors affecting LOS include:
    - Benchmark against top-performing hospitals to adopt best practices.
 
 ## Final Takeaways
-- LOS and cost inefficiencies exist across several hospitals, with outliers significantly impacting averages.
-- Health status—not age—is the primary driver of extended hospital stays and high costs.
+- LOS and cost inefficiencies exist across several hospitals, with outliers significantly impacting averages. Even one case can skew the performance metrics of a facility.
+- Health status—not age—is the primary driver of extended hospital stays and high costs for elective hip replacement patients.
 - Number of surgeons does not affect efficiency, indicating that hospital workflows and care processes need greater attention.
 - Targeted interventions can improve hospital efficiency, lower costs, and enhance patient outcomes.
 
