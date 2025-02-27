@@ -1,6 +1,6 @@
 ![Screenshot (47)](https://github.com/user-attachments/assets/cf8480eb-e70c-4039-b50b-fc4a4f7209b7)
-Click here to view my interactive dashboard on Tableau public. 
-https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/CostOverview2#1
+Click [here](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/CostOverview2#1) to view my interactive dashboard on Tableau public!
+
 
 # Case Study: Enhancing Hospital Efficiency in Elective Hip Replacement Surgeries
 
@@ -43,7 +43,7 @@ Factors affecting LOS include:
 
 
 ![Screenshot (20)](https://github.com/user-attachments/assets/e5d291e9-ae22-4bd8-afad-90fa0cebb6e2)
-- Unexpectedly, LOS is nearly identical for patients under 50 and over 50. Age does not seem to significantly impact recovery time.
+- Surprisingly, LOS is nearly identical for patients under 50 and over 50. Age does not seem to significantly impact recovery time.
 
 
 ### 2. Hospital Performance Comparison
