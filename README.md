@@ -67,6 +67,7 @@ Factors affecting LOS include:
 
 ### 5. Do More Surgeons Improve Efficiency?
 <img width="708" alt="2025-03-17" src="https://github.com/user-attachments/assets/5c4838cd-e985-4f1d-84fc-805c5431acc9" />
+
 - The trend line in the scatterplot is fairly close to being horizontal. This shows that there's no clear correlation between the number of surgeons and hospital efficiency. More surgeons do not necessarily lead to shorter LOS or lower costs. The efficiency of hospital workflows and care processes should be reviewed. 
 
 
