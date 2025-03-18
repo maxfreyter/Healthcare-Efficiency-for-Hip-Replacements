@@ -1,5 +1,5 @@
-[![Screenshot (47)](https://github.com/user-attachments/assets/cf8480eb-e70c-4039-b50b-fc4a4f7209b7)](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/CostOverview2#1)
-Click [here](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/CostOverview2#1) to view my interactive dashboard on Tableau public!
+[![Screenshot (47)](https://github.com/user-attachments/assets/cf8480eb-e70c-4039-b50b-fc4a4f7209b7)](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/Overview3)
+Click [here](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/Overview3) to view my interactive dashboard on Tableau public!
 
 
 # Case Study: Enhancing Hospital Efficiency in Elective Hip Replacement Surgeries
