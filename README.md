@@ -1,4 +1,6 @@
-[![Screenshot (47)](https://github.com/user-attachments/assets/cf8480eb-e70c-4039-b50b-fc4a4f7209b7)](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/Overview3)
+[<img width="931" alt="2025-03-18" src="https://github.com/user-attachments/assets/7c32145f-2c30-43f2-8665-0824fa038b96" />](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/Overview3)
+[<img width="922" alt="2025-03-18 (1)" src="https://github.com/user-attachments/assets/edbb2c8d-298e-4401-908a-0ffa87435352" />](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/Overview3)
+(https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/Overview3)
 Click [here](https://public.tableau.com/app/profile/max.freyter/viz/HealthcareEfficiencyHipReplacementMetrics/Overview3) to view my interactive dashboard on Tableau public!
 
 
